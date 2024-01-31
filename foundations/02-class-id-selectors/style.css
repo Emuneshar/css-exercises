@@ -1,3 +1,7 @@
 .odd{
     background-color: 242, 116, 120;
 }
+
+.odd.three{
+    font-size: 24px;
+}
