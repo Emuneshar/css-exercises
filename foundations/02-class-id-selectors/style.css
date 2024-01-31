@@ -1,5 +1,6 @@
 .odd{
     background-color: rgb(237, 135, 139);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
 }
 
 .odd.three{
